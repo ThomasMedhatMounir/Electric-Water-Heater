@@ -21,3 +21,7 @@ components
 Hardware
 ![image](https://user-images.githubusercontent.com/108838485/200203612-6fbdf196-0052-4aef-ae7d-3212cf081373.png)
 
+
+Flowchart 
+
+![image](https://user-images.githubusercontent.com/108838485/200203668-c07cd81f-8d78-46f5-bab0-431ba5ab32cb.png)
